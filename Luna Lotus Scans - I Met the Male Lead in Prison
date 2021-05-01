@@ -3,7 +3,7 @@
   "description": "Adaptation from the novel of the same name",
   "artist": "TODO",
   "author": "Moon Sihyun",
-  "cover": "https://i.imgur.com/zTLXeBj.png",
+  "cover": "https://i.imgur.com/pmoUIKh.png",
   "chapters": {
     "00": {
       "title": "Promo",
@@ -12,6 +12,14 @@
         "LunaLotusScans": "/proxy/api/imgur/chapter/zP1lh39/"
       },
       "last_updated": "1619812137"
-    }
+    },
+    "01": {
+      "title": "Chapter 1",
+      "volume": "00",
+      "groups": {
+        "LunaLotusScans": "/proxy/api/imgur/chapter/F7lh7Ms/"
+      },
+      "last_updated": "1619812137"
+    },
   }
 }
